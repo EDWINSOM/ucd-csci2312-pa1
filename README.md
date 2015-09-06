@@ -3,6 +3,8 @@ Programming Assignment 1
 
 Programmer: Marisa Edwinson
 
+Compiler:   gcc , gnu
+
 Description of the 3 Dimensional "Point" class:
 
     Each Point class object makes use of three core variables x,y, and z. These are declared
